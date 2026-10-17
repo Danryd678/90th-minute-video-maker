@@ -1,0 +1,5 @@
+streamlit
+edge-tts
+gtts
+Pillow
+imageio-ffmpeg
